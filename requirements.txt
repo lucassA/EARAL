@@ -1,0 +1,11 @@
+torch
+transformers
+scipy
+numpy
+accelerate
+# Required if you use --attn_implementation="flash_attention_2"
+flash-attn
+nltk
+os
+json
+datasets
